@@ -6,7 +6,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("/Users/ramseylewis/Desktop/Development/Projects/calculatorProject/A3D66A62-63BA-4041-A87A-F4337326CF42_1_105_c.jpeg");
+  background-color: turquoise;
+  background-image: url("./A3D66A62-63BA-4041-A87A-F4337326CF42_1_105_c.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
