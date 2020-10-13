@@ -97,6 +97,7 @@ function equater(calc){
         return num1 * .01
         // if var1 is strictly a "/" return num1 / num2
         }
+        
 }
 
 
